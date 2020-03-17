@@ -1,0 +1,152 @@
+@media (max-width: 475px) {
+    .container {
+        max-width: 290px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /*Section Banner*/
+    .banner {
+        height: 600px;
+        margin-top: -5rem;
+        background-position: top;
+        background-size: cover;
+    }
+
+    .banner_content {
+        width: 80%;
+        color: #fff;
+    }
+
+    /*Section Mission*/
+    .mission-title_title {
+        width: 100%;
+        padding-left: 60px;
+        flex: 0 0 0 100%;
+    }
+
+    .mission-title_title:before {
+        left: 6px;
+        top: 70px;
+        width: 118px;
+    }
+
+    .mission-title_text {
+        width: 100%;
+        flex: 0 0 0 100%;
+        padding-left: 30px;
+    }
+
+    .mission-wrap {
+        max-width: 290px;
+    }
+
+    .mission-wrap-item {
+        width: 100%;
+        flex: 0 0 0 100%;
+    }
+
+    .mission-wrap-item:last-child {
+        flex-direction: column;
+    }
+
+    .mission_title1 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission_text1 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission-item_img1 {
+        width: 80%;
+    }
+
+    .mission_title2 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission_text2 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission-item_img2 {
+        width: 80%;
+        margin-left: 0rem;
+        margin-top: 0;
+    }
+
+    .mission_title3 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission_text3 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission-item_img3 {
+        width: 80%;
+        margin-left: 0rem;
+        margin-top: 0;
+    }
+
+    /*Video Section*/
+    .video {
+        height: 150px;
+        margin-top: 42px;
+    }
+
+    .video-title {
+        width: 80%;
+        font-size: 22px;
+        margin-top: -28px;
+        line-height: 4px;
+    }
+
+    .video-control {
+        border: 2px solid #fff;
+        padding: 10px;
+    }
+
+    .video-btn-arrow {
+        width: 0;
+        border-top: 7px solid transparent;
+        border-bottom: 7px solid transparent;
+        border-right: 7px solid transparent;
+        border-left: 13px solid #fff;
+        position: relative;
+        top: 0;
+        left: 7px;
+    }
+
+    /*Slider Section*/
+    .slider {
+        height: 1115px;
+    }
+
+    .slider-content {
+        width: 290px;
+    }
+
+    .slider-content_title {
+        font-size: 53px;
+        line-height: 1;
+        margin-bottom: 0rem;
+    }
+
+    .slider-rings {
+        margin: 0 auto;
+        width: 290px;
+    }
+
+
+    .btn-shop {
+        padding: 19px 13px;
+    }
+}
