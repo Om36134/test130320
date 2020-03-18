@@ -1,3 +1,396 @@
+@media (max-width: 1512px) {
+    .container {
+        max-width: 1482px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /*Section Banner*/
+    .banner {
+        height: 850px;
+    }
+
+    /*Mission Banner*/
+    .mission-title_title {
+
+    }
+
+    .mission-title_text {
+
+    }
+
+    .mission-wrap {
+        max-width: 1482px;
+    }
+
+    .mission-item_img2 {
+        width: 572px;
+    }
+
+    .mission_title2 {
+        padding-left: 250px;
+    }
+
+    .mission_text2 {
+        padding-left: 250px;
+    }
+
+    .mission-item_img3 {
+        margin-top: -3rem;
+    }
+
+    /*Slider Section*/
+
+    .slider-rings {
+        width: 1347px;
+    }
+}
+
+@media (max-width: 1220px) {
+    .container {
+        max-width: 962px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /*Section Banner*/
+    .banner {
+        height: 850px;
+    }
+
+    /*Mission Banner*/
+.mission-title_title {
+    width: 47%;
+}
+
+    .mission-title_text {
+        width: 40%;
+        padding-left: 15px;
+    }
+
+    .mission-wrap {
+        max-width: 1200px;
+        justify-content: inherit;
+    }
+
+    .mission-wrap-item {
+        width: 353px;
+        flex: 0 0 0 353px;
+    }
+
+    .mission-item_img1 {
+        width: 353px;
+    }
+
+    .mission-item_img2 {
+        width: 379px;
+        margin-top: 19rem;
+        margin-left: 7rem;
+    }
+
+    .mission_title2 {
+        padding-left: 207px;
+    }
+
+    .mission_text2 {
+        width: 353px;
+        padding-left: 207px;
+    }
+
+    .mission-item_img3 {
+        width: 380px;
+        margin-left: 0;
+    }
+
+    /*Slider Section*/
+
+    .slider-rings {
+        margin: 0 auto;
+        width: 1000px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 962px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /*Section Banner*/
+    .banner {
+        height: 630px;
+        margin-top: 0rem;
+        background-position: top;
+        background-size: cover;
+    }
+
+    /*Section mission*/
+
+    .mission-title_title {
+        width: 100%;
+        padding-left: 60px;
+        flex: 0 0 0 100%;
+    }
+
+    .mission-title_title:before {
+        left: 6px;
+        top: 70px;
+        width: 118px;
+    }
+
+    .mission-title_text {
+        width: 100%;
+        flex: 0 0 0 100%;
+        padding-left: 30px;
+    }
+
+    .mission-wrap {
+        max-width: 992px;
+        justify-content: center;
+    }
+
+    .mission-wrap-item {
+        width: 353px;
+        flex: 0 0 0 353px;
+        margin-bottom: 50px;
+    }
+
+    .mission-wrap-item:last-child {
+        flex-direction: column;
+    }
+
+    .mission_title1 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission_text1 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission-item_img1 {
+        width: 80%;
+    }
+
+    .mission_title2 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission_text2 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission-item_img2 {
+        width: 80%;
+        margin-left: 0rem;
+        margin-top: 170px;
+    }
+
+    .mission_title3 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission_text3 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission-item_img3 {
+        width: 80%;
+        margin-left: 0rem;
+        margin-top: 0;
+    }
+
+    /*Video Section*/
+    .video {
+        height: 339px;
+        margin-top: 47px;
+    }
+
+    .video-title {
+        margin-top: -60px;
+        line-height: 1px;
+    }
+
+    .video-control {
+        padding: 20px;
+
+    }
+
+    .video-btn-arrow {
+        border-top: 17px solid transparent;
+        border-bottom: 17px solid transparent;
+        border-right: 7px solid transparent;
+        border-left: 32px solid #fff;
+    }
+
+    /*Slider Section*/
+    .slider {
+        height: 910px;
+    }
+
+    .slider-content {
+        width: 738px;
+        margin: 0 auto;
+    }
+
+    .slider-content_title {
+        line-height: 1.5;
+        margin-bottom: 0rem;
+    }
+
+    .slider-rings {
+        margin: 0 auto;
+        width: 768px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 738px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    /*Section Banner*/
+    .banner {
+        height: 630px;
+        margin-top: 0rem;
+        background-position: top;
+        background-size: cover;
+    }
+
+    /*Section mission*/
+
+    .mission-title_title {
+        width: 100%;
+        padding-left: 60px;
+        flex: 0 0 0 100%;
+    }
+
+    .mission-title_title:before {
+        left: 6px;
+        top: 70px;
+        width: 118px;
+    }
+
+    .mission-title_text {
+        width: 100%;
+        flex: 0 0 0 100%;
+        padding-left: 30px;
+    }
+
+    .mission-wrap {
+        max-width: 738px;
+    }
+
+    .mission-wrap-item {
+        width: 100%;
+        flex: 0 0 0 100%;
+        margin-bottom: 50px;
+    }
+
+    .mission-wrap-item:last-child {
+        flex-direction: column;
+    }
+
+    .mission_title1 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission_text1 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission-item_img1 {
+        width: 80%;
+    }
+
+    .mission_title2 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission_text2 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission-item_img2 {
+        width: 80%;
+        margin-left: 0rem;
+        margin-top: 0;
+    }
+
+    .mission_title3 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission_text3 {
+        width: 80%;
+        padding-left: 15px;
+    }
+
+    .mission-item_img3 {
+        width: 80%;
+        margin-left: 0rem;
+        margin-top: 0;
+    }
+
+    /*Video Section*/
+    .video {
+        height: 339px;
+        margin-top: 47px;
+    }
+
+    .video-title {
+        margin-top: -60px;
+        line-height: 1px;
+    }
+
+    .video-control {
+        padding: 20px;
+
+    }
+
+    .video-btn-arrow {
+        border-top: 17px solid transparent;
+        border-bottom: 17px solid transparent;
+        border-right: 7px solid transparent;
+        border-left: 32px solid #fff;
+    }
+
+    /*Slider Section*/
+    .slider {
+        height: 910px;
+    }
+
+    .slider-content {
+        width: 738px;
+        margin: 0 auto;
+    }
+
+    .slider-content_title {
+        line-height: 1.5;
+        margin-bottom: 0rem;
+    }
+
+    .slider-rings {
+        margin: 0 auto;
+        width: 768px;
+    }
+
+}
+
 @media (max-width: 572px) {
     .container {
         max-width: 542px;
@@ -144,7 +537,6 @@
         padding: 19px 13px;
     }
 }
-
 
 @media (max-width: 475px) {
     .container {
